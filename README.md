@@ -1,2 +1,2 @@
 # Geode
-PerS
+Personal finance manager
